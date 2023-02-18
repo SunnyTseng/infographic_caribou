@@ -58,6 +58,6 @@ Between \$700 - \$800, with around 30 working hours expected for the work
 - [FRI research](https://friresearch.ca/search/?frisearchable_posts%5BhierarchicalMenu%5D%5Btaxonomies_hierarchical.publication_type.lvl0%5D%5B0%5D=Summaries%20and%20Communications&frisearchable_posts%5BhierarchicalMenu%5D%5Btaxonomies_hierarchical.publication_type.lvl0%5D%5B1%5D=Infographics)
 
 
-![example2](80012658_10221585216765418_504209322096459776_n.JPG)
-![example1](GBP_2018_05_QuarryLifeIntro_Infographic.PNG)
+![example2](80012658_10221585216765418_504209322096459776_n.jpg)
+![example1](GBP_2018_05_QuarryLifeIntro_Infographic.png)
 ![example3](CP_2020_06_pipeline_veg_infographic.jpg)
