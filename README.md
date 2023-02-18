@@ -39,7 +39,7 @@ Example of some of my previous digital drawing:
 
 ## Expected compensation
 
-Between \$700 - \$800, with around 30 working hours expected for the work 
+Between \$725 - \$800, with around 30 working hours expected for the work 
 
 | Hours | Task |
 | --- | --- |
