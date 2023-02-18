@@ -26,9 +26,9 @@ I will be using these two platforms for designing:
 
 Example of some of my previous digital drawing: 
 
-![GRYE](GRYE.PNG "Greater Yellowlegs by Sunny Tseng")
+![GRYE](GRYE.png "Greater Yellowlegs by Sunny Tseng")
 
-![BAOW](BAOW_white.PNG "Barred Owls by Sunny Tseng")
+![BAOW](BAOW_white.png "Barred Owls by Sunny Tseng")
 
 
 ## Expected output
