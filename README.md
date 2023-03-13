@@ -5,6 +5,26 @@
 
 The paper is entitled "Walking the line: Investigating biophysical characteristics related to wildlife use of linear features", which is published in 2023 (Tattersall et al., 2023). The goal of this project is to create an infographic for this research paper!
 
+## Product
+
+### version 1 (2023.03.13)
+
+![BAOW](products/Infographic%20linear%20feature%20by%20Erin_v1.jpg)
+
+
+Things need discussions/opinions:
+
+- Please proofread the texts as I modified some to fit the graphics. 
+
+- I didn't include the result "Trails were associated with linear feature use for most taxa in at least one region or linear feature type" as I want to keep some white space to breath. --> If it's one of the key points want to be included --> I can try fitting it in the place where the conclusion is sitting now. 
+
+- I think the first point of conclusion can be modified as the information is similar to the introduction. --> Any thoughts? 
+
+Things will be changed in next version (on-going list):
+
+- Reduce the shadow on the bear
+
+
 ## Time line
 
 | Deliverable | Due | Review |
@@ -39,7 +59,7 @@ Example of some of my previous digital drawing:
 
 ## Expected compensation
 
-Between \$725 - \$800, with around 30 working hours expected for the work 
+Between \$725 - \$850, with around 30 working hours expected for the work 
 
 | Hours | Task |
 | --- | --- |
