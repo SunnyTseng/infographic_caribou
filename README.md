@@ -20,9 +20,11 @@ Things need discussions/opinions:
 
 - I think the first point of conclusion can be modified as the information is similar to the introduction. --> Any thoughts? 
 
-Things will be changed in next version (on-going list):
+Things will be changed in next version (growing list):
 
 - Reduce the shadow on the bear
+
+- Update the paper DOI
 
 
 ## Time line
