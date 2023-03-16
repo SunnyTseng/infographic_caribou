@@ -7,6 +7,10 @@ The paper is entitled "Walking the line: Investigating biophysical characteristi
 
 ## Product
 
+### version 2 (2023.03.15)
+
+![BAOW](products/Infographic%20linear%20feature%20by%20Erin_v2.jpg)
+
 ### version 1 (2023.03.13)
 
 ![BAOW](products/Infographic%20linear%20feature%20by%20Erin_v1.jpg)
