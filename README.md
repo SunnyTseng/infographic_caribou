@@ -7,6 +7,12 @@ The paper is entitled "Walking the line: Investigating biophysical characteristi
 
 ## Product
 
+### version 3 (2023.03.17)
+
+Inforgraphic in different formats can be downloaded here: [PDF](products/Infographic%20linear%20feature%20by%20Erin_v3.pdf), [PNG](products/Infographic%20linear%20feature%20by%20Erin_v3.png), or [JPG](products/Infographic%20linear%20feature%20by%20Erin_v3.jpg)
+
+![BAOW](products/Infographic%20linear%20feature%20by%20Erin_v3.jpg)
+
 ### version 2 (2023.03.15)
 
 ![BAOW](products/Infographic%20linear%20feature%20by%20Erin_v2.jpg)
@@ -52,9 +58,9 @@ I will be using these two platforms for designing:
 
 Example of some of my previous digital drawing: 
 
-![GRYE](GRYE.png "Greater Yellowlegs by Sunny Tseng")
+![GRYE](docs_readme/GRYE.png "Greater Yellowlegs by Sunny Tseng")
 
-![BAOW](BAOW_white.png "Barred Owls by Sunny Tseng")
+![BAOW](docs_readme/BAOW_white.png "Barred Owls by Sunny Tseng")
 
 
 ## Expected output
@@ -84,6 +90,10 @@ Between \$725 - \$850, with around 30 working hours expected for the work
 - [FRI research](https://friresearch.ca/search/?frisearchable_posts%5BhierarchicalMenu%5D%5Btaxonomies_hierarchical.publication_type.lvl0%5D%5B0%5D=Summaries%20and%20Communications&frisearchable_posts%5BhierarchicalMenu%5D%5Btaxonomies_hierarchical.publication_type.lvl0%5D%5B1%5D=Infographics)
 
 
-![example2](80012658_10221585216765418_504209322096459776_n.jpg)
-![example1](GBP_2018_05_QuarryLifeIntro_Infographic.png)
-![example3](CP_2020_06_pipeline_veg_infographic.jpg)
+![example2](docs_readme/80012658_10221585216765418_504209322096459776_n.jpg)
+![example1](docs_readme/GBP_2018_05_QuarryLifeIntro_Infographic.png)
+![example3](docs_readme/CP_2020_06_pipeline_veg_infographic.jpg)
+![example4](docs_readme/335290331_270105258674587_623199478749412266_n.jpg)
+![example5](docs_readme/uidaho.png)
+
+
